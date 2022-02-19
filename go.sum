@@ -1,2 +1,6 @@
 github.com/aburizalpurnama/go-say-hello v1.0.0 h1:mkgElU5ksYtSCkYgM36jsUiRJi6xygaQZ8cFSUW6as8=
 github.com/aburizalpurnama/go-say-hello v1.0.0/go.mod h1:ydxwVOt3OAcWGI0ZbNJBWIG+pMr00xBLCFJHrpr9Ny4=
+github.com/aburizalpurnama/go-say-hello v1.0.1 h1:KSoA2IDzoDEjgSK3/jHUEXkJLILTth1EOl3ClEfsM+g=
+github.com/aburizalpurnama/go-say-hello v1.0.1/go.mod h1:ydxwVOt3OAcWGI0ZbNJBWIG+pMr00xBLCFJHrpr9Ny4=
+github.com/aburizalpurnama/go-say-hello/v2 v2.0.0 h1:O82dTpYivB/M27lfaLQehkTNbT5uk9GnSXx0sIGCnMQ=
+github.com/aburizalpurnama/go-say-hello/v2 v2.0.0/go.mod h1:TYAvjKmxtbi8BSoSrXzmRYwxK7T6mC2Vx2hMkm75P3E=
